@@ -1,7 +1,7 @@
 toastr_rails
 =======================
 
-[toastr]https://github.com/CodeSeven/toastr is a Javascript library for Gnome / Growl type non-blocking notifications.
+[toastr](https://github.com/CodeSeven/toastr) is a Javascript library for Gnome / Growl type non-blocking notifications.
 This [Gem](http://rubygems.org/) packages toastr for [Ruby](http://www.ruby-lang.org) on
 [Rails'](http://rubyonrails.org/) [asset pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 
